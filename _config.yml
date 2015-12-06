@@ -1,6 +1,6 @@
-name: forresearch
-domain: forresearch.no
-project: Infrastruktur for Forskning
+name: healthregistries.forresearch
+domain: healthregistries.forresearch.no
+project: Health Registries for Research
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:
