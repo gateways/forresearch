@@ -1,6 +1,6 @@
 name: healthregistries.forresearch
 domain: http://healthregistries.forresearch.no
-project: Health Registries for Research (HRR)
+project: Health Registries for Research (HRR), national e-infrastructure & data processing
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:
